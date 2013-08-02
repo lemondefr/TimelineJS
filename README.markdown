@@ -2,11 +2,12 @@
 
 Le Monde.fr utilise TimelineJS régulièrement pour proposer à ses lecteurs
 un retour sur les feuilleton d'actualité les plus importants. Depuis la 
-[première utilisation](http://www.lemonde.fr/election-presidentielle-2012/visuel/2012/04/21/chronologie-une-si-longue-campagne-presidentielle_1681661_1471069.html)
+[première utilisation](http://www.lemonde.fr/election-presidentielle-2012/visuel/2012/04/21/chronologie-une-si-longue-campagne-presidentielle_1681661_1471069.html) 
+jusqu'à des versions [ultra-personnalisées](http://www.lemonde.fr/asie-pacifique/visuel/2013/03/14/au-tibet-plus-d-une-centaine-d-immolations-en-quatre-ans_1839305_3216.html). 
 
 Ce *repository* permet de garder une version customisée pour Le Monde.fr de 
 ces chronologies.
- 
+
 ### Initialisation
 
 Prendre le projet "compiled" et modifier le titre de l'article, ainsi que la clé 
